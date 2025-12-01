@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Cherish (My Love)",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-01T01:04:59.211896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Do (Cherish You)",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/01_I_Do_(Cherish_You)_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Do (Cherish You) (Album Version)",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/02_I_Do_(Cherish_You)_(Album_Version)_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Do (Cherish You) (Album Version)",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/03_I_Do_(Cherish_You)_(Album_Version)_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/04_Cherish_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/05_Cherish_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/06_Cherish_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cherish the Day",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/07_Cherish_the_Day_Sade.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherish the Day",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/08_Cherish_the_Day_Sade.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cherish the Day",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/09_Cherish_the_Day_Sade.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cherish the Day",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/10_Cherish_the_Day_Sade.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cherish My Memory",
+      "artist": "Amberian Dawn",
+      "has_synced": true,
+      "path": "select/11_Cherish_My_Memory_Amberian_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cherish My Memory - Re-Mastered",
+      "artist": "Amberian Dawn",
+      "has_synced": true,
+      "path": "select/12_Cherish_My_Memory_-_Re-Mastered_Amberian_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/13_Cherish_Madonna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/14_Cherish_Madonna.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/15_Cherish_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/16_Cherish_Madonna.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/17_Cherish_Madonna.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Cherish - Extended Version",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/18_Cherish_-_Extended_Version_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Cherish The Dead",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/19_Cherish_The_Dead_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Cherish",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/20_Cherish_Madonna.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Cherish (My Love)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_Cherish_(My_Love)_ILLIT.txt"
+    }
+  ]
+}
